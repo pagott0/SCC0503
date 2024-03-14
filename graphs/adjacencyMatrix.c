@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//graph implementation using adjacency matrix
+
 #define Vertex int
 typedef struct node *Link;
 typedef struct graph *Digraph;
